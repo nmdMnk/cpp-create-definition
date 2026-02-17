@@ -2,16 +2,16 @@
   "name": "cpp-create-definition",
   "displayName": "C++ Create Definition",
   "description": "",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "engines": {
     "vscode": "^1.76.0"
   },
   "license": "MIT",
-  "publisher": "boocs",
-  "homepage": "https://github.com/boocs/cpp-create-definition#readme",
+  "publisher": "nmdMnk",
+  "homepage": "https://github.com/nmdMnk/cpp-create-definition#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/boocs/cpp-create-definition"
+    "url": "https://github.com/nmdMnk/cpp-create-definition"
   },
   "categories": [
     "Other"

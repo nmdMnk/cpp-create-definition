@@ -7,7 +7,8 @@ export const SOURCE_EXTENSIONS = ["cpp", "cc", "c"];
 export const RE_FUNCTION_SIGNATURE = /\s+/;
 
 export const PREFIX_REMOVAL = [
-    "virtual"
+    "virtual",
+    "static"
 ];
 
 export const POSTFIX_REMOVAL = [

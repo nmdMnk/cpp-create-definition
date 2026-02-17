@@ -1,6 +1,6 @@
 # C++ Create Definition VSCode extension
 
-https://github.com/boocs/cpp-create-definition
+https://github.com/nmdMnk/cpp-create-definition
 
 
 
@@ -26,21 +26,11 @@ It'll will try to find/open the source file and paste the Definition skeleton at
 
 
 ---
-## Help
-
-https://github.com/boocs/cpp-create-definition/issues
-
-When asking for help provide class Name line and function name line:
-
-```
-class AFPS5_2Character : public ACharacter
-```
-
-```
-void SetHasRifle(bool bNewHasRifle);
-```
-
 ## Latest updates
+
+## [1.1.2] - 2026-02-17
+### Fixed
+- Remove `static` keyword from generated out-of-class definitions
 
 ## [1.1.1] - 2023-09-16
 ### Update
